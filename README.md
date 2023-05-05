@@ -1,2 +1,2 @@
 # Frontend-Training
- Frontend class training
+ Frontend class training project using replit.
